@@ -4,7 +4,7 @@
 </div>
 
 <div id="socials" align="center">
-  <h4>Channel <a href="https://t.me/bald_man_gushcharin"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white" alt="TelegramChannel"/></a> Contact <a href="https://t.me/ni_gushch"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white" alt="TelegramChannel"/></a></h4>
+  <h4>Channel <a href="https://t.me/bald_man_gushcharin"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="TelegramChannel"/></a> Contact <a href="https://t.me/ni_gushch"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="TelegramChannel"/></a></h4>
 </div>
 
 ### About me
