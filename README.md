@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1>Hi there 👋, i'm Nikolay</h1>
   <h3>DotNET developer and Rust enjoyer from Moscow🇷🇺</h3>
-  <a href="https://t.me/bald_man_gushcharin"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white" alt="TelegramChannel/></a>
+  <a href="https://t.me/bald_man_gushcharin"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white" alt="TelegramChannel"/></a>
 </div>
 
 <!--
